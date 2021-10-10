@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_between_buttons">20dp</dimen>
+    <dimen name="button_width">190dp</dimen>
+    <dimen name="button_height">70dp</dimen>
+</resources>

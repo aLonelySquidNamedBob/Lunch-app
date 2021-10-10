@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="p_sw_lib">380</integer>
+    <integer name="p_sw_spe">300</integer>
+    <integer name="p_sw_ext">400</integer>
+    <integer name="p_sw_tra">300</integer>
+    <integer name="p_chaud">400</integer>
+    <integer name="p_dessert">100</integer>
+</resources>

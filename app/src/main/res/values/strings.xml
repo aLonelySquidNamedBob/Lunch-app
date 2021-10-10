@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lunch</string>
+    <string name="sw_lib">Sw Lib</string>
+    <string name="sw_tra">Sw Tradition</string>
+    <string name="sw_ext">Sw Extra</string>
+    <string name="sw_spe">Sw Special</string>
+    <string name="dessert">Dessert</string>
+    <string name="chaud">Plat chaud</string>
+    <string name="custom">Custom</string>
+    <string name="total">Total:</string>
+
 </resources>
